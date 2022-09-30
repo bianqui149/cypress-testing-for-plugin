@@ -1,0 +1,14 @@
+{
+  "name": "cypress-integration",
+  "version": "1.0.0",
+  "description": "testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
